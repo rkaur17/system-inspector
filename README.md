@@ -1,4 +1,4 @@
-# Project 1: System Inspector
+System Inspector
 Author: Ramneet Kaur
 
 # What's it about?
